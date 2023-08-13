@@ -4,3 +4,4 @@ These are some algorithms written in Python. Currently this repo contains the fo
 - Binary Search
 - Selection Sort
 - Quicksort
+- Insertion Sort
